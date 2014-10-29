@@ -1,0 +1,194 @@
+﻿[WtListItem]
+    [WtParagraph]
+        [WtTemplate] 
+            [WtNodeList]
+                [WtText] Orphan
+            [WtNodeList]
+                [WtTemplateArgument] 
+                    [WtNodeList]
+                        [WtText] date
+                    [WtNodeList]
+                        [WtText] April 2011
+    [WtText] 
+
+
+    [WtParagraph]
+        [WtTemplate] 
+            [WtNodeList]
+                [WtText] chembox
+
+            [WtNodeList]
+                [WtTemplateArgument] 
+                    [WtNodeList]
+                        [WtText]  verifiedrevid 
+                    [WtNodeList]
+                        [WtText]  425210668
+
+                [WtTemplateArgument] 
+                    [WtNodeList]
+                        [WtText]    Name 
+                    [WtNodeList]
+                        [WtText] Ethyl 2-methylpentanoate
+
+                [WtTemplateArgument] 
+                    [WtNodeList]
+                        [WtText]    Reference 
+                    [WtNodeList]
+                        [WtText] 
+
+                [WtTemplateArgument] 
+                    [WtNodeList]
+                        [WtText]    ImageFile 
+                    [WtNodeList]
+                        [WtText]  Manzanate.png
+
+                [WtTemplateArgument] 
+                    [WtNodeList]
+                        [WtText]    ImageSize 
+                    [WtNodeList]
+                        [WtText]  200px
+
+                [WtTemplateArgument] 
+                    [WtNodeList]
+                        [WtText]    ImageName 
+                    [WtNodeList]
+                        [WtText]  
+
+                [WtTemplateArgument] 
+                    [WtNodeList]
+                        [WtText]    IUPACName 
+                    [WtNodeList]
+                        [WtText]  Ethyl 2-methylpentanoate
+
+                [WtTemplateArgument] 
+                    [WtNodeList]
+                        [WtText]    OtherNames 
+                    [WtNodeList]
+                        [WtText]  Ethyl α-methylvalerate; Melon valerate
+
+                [WtTemplateArgument] 
+                    [WtNodeList]
+                        [WtText]  Section1 
+                    [WtNodeList]
+                        [WtText]  
+                        [WtTemplate] 
+                            [WtNodeList]
+                                [WtText] Chembox Identifiers
+
+                            [WtNodeList]
+                                [WtTemplateArgument] 
+                                    [WtNodeList]
+                                        [WtText]    CASNo_Ref 
+                                    [WtNodeList]
+                                        [WtText]  
+                                        [WtTemplate] 
+                                            [WtNodeList]
+                                                [WtText] cascite
+                                            [WtNodeList]
+                                                [WtTemplateArgument] 
+                                                    [WtNodeList]
+                                                    [WtNodeList]
+                                                        [WtText] correct
+                                                [WtTemplateArgument] 
+                                                    [WtNodeList]
+                                                    [WtNodeList]
+                                                        [WtText] ??
+                                        [WtText] 
+
+                                [WtTemplateArgument] 
+                                    [WtNodeList]
+                                        [WtText]  CASNo 
+                                    [WtNodeList]
+                                        [WtText]  39255-32-8
+
+                                [WtTemplateArgument] 
+                                    [WtNodeList]
+                                        [WtText]    SMILES 
+                                    [WtNodeList]
+                                        [WtText]  CCCC(C)C(=O)OCC
+  
+                        [WtText] 
+
+                [WtTemplateArgument] 
+                    [WtNodeList]
+                        [WtText]  Section2 
+                    [WtNodeList]
+                        [WtText]  
+                        [WtTemplate] 
+                            [WtNodeList]
+                                [WtText] Chembox Properties
+
+                            [WtNodeList]
+                                [WtTemplateArgument] 
+                                    [WtNodeList]
+                                        [WtText]    Formula 
+                                    [WtNodeList]
+                                        [WtText]  C<sub>8</sub>H<sub>16</sub>O<sub>2</sub>
+
+                                [WtTemplateArgument] 
+                                    [WtNodeList]
+                                        [WtText]    MolarMass 
+                                    [WtNodeList]
+                                        [WtText]  144.21 g/mol
+
+                                [WtTemplateArgument] 
+                                    [WtNodeList]
+                                        [WtText]    Density 
+                                    [WtNodeList]
+                                        [WtText]   
+
+                                [WtTemplateArgument] 
+                                    [WtNodeList]
+                                        [WtText]    MeltingPt 
+                                    [WtNodeList]
+                                        [WtText] 
+
+                                [WtTemplateArgument] 
+                                    [WtNodeList]
+                                        [WtText]    BoilingPt 
+                                    [WtNodeList]
+                                        [WtText]  
+  
+                        [WtText] 
+
+    [WtText] 
+
+
+    [WtParagraph]
+        [WtBold]
+            [WtText] Manzanate
+        [WtText]  is a 
+        [WtInternalLink] 
+            [WtText] flavor
+        [WtText]  ingredient which has a fruity apple smell and with aspects of cider and sweet pineapple.
+        [WtTagExtension] 
+    [WtText] 
+
+
+    [WtSection] 
+        --heading-- 
+            [WtText] References
+        --body-- 
+            [WtText] 
+
+            [WtParagraph]
+                [WtTemplate] 
+                    [WtNodeList]
+                        [WtText] reflist
+                    [WtNodeList]
+            [WtText] 
+
+
+            [WtParagraph]
+                [WtInternalLink] 
+            [WtText] 
+
+
+            [WtParagraph]
+                [WtText] 
+
+                [WtTemplate] 
+                    [WtNodeList]
+                        [WtText] ester-stub
+                    [WtNodeList]
+            [WtText] 

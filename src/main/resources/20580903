@@ -1,0 +1,39 @@
+Housane
+C1C2CCC12
+{{Chembox
+| ImageFileL1 = housane.svg
+| ImageSizeL1 = 80px
+| ImageFileR1 = housane.png
+| ImageSizeR1 = 120px
+| IUPACName = Bicyclo[2.1.0]pentane
+| OtherNames = 
+| Section1 = {{Chembox Identifiers
+|  CASNo = 185-94-4
+|  PubChem = 9101
+|  ChemSpiderID = 8747
+|  SMILES = C1C2CCC12
+|  InChI = 1/C5H8/c1-2-5-3-4(1)5/h4-5H,1-3H2
+|  InChIKey = MHLPKAGDPWUOOT-UHFFFAOYAN
+|  StdInChI = 1S/C5H8/c1-2-5-3-4(1)5/h4-5H,1-3H2
+|  StdInChIKey = MHLPKAGDPWUOOT-UHFFFAOYSA-N
+  }}
+| Section2 = {{Chembox Properties
+|  C=5|H=8
+|  Appearance = 
+|  Density = 
+|  MeltingPt = 
+|  BoilingPt = 
+|  Solubility =
+  }}
+| Section3 = {{Chembox Hazards
+|  MainHazards = 
+|  FlashPt = 
+|  Autoignition =
+  }}
+}}
+
+'''Housane''' is a [[cycloalkane]] with the formula C<sub>5</sub>H<sub>8</sub>. It was named "housane" because of its shape.
+
+[[Category:Cycloalkanes]]
+
+{{hydrocarbon-stub}}
